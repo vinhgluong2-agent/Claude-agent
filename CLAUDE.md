@@ -18,4 +18,5 @@ I'm a designer, I create content about marketing and productivity, TVC... everyt
 
 - workflow/ - workflow instructing files(plain english/vietnamese recipes the agent follows)
 - output/ - finished deliverables(report, draft, analysis)
-- resource/ - Reference docs and templates 
+- resource/ - Reference docs and templates
+-
